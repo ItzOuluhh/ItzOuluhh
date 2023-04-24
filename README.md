@@ -1,17 +1,21 @@
-<h2>Hey!, i'm Ole!</h2>
+<h1>Hey!, i'm Ole!</h1>
 <p style="opacity:.8;">Welcome to my profile.</p>
 
-<!--
-**ItzzOle/ItzzOle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const Ole = {
+  name: "Ole",
+  code: ["Web3", "Javascript", "Php", "Python"],
+  website: "ItzOle.nl",
+  challanges: {
+    "Finishing my school dashboard application",
+    "Learn React.js",
+    "Mobile app development"
+  };
+  greetings: true
+};
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>📎 • Links:</h3>
+<a href="https://www.instagram.com/itzouluhh/" target="_blank">📸 • Instagram</a>
+<br>
+<a href="https://itzole.nl/" target="_blank">💡 • Website</a>
