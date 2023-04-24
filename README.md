@@ -1,4 +1,5 @@
-### Hi there 👋
+<h2>Hey!, i'm Ole!</h2>
+<p style="opacity:.8;">Welcome to my profile.</p>
 
 <!--
 **ItzzOle/ItzzOle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
