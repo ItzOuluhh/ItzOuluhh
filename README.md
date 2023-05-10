@@ -18,4 +18,6 @@ const Ole = {
 <h3>📎 • Links:</h3>
 <a href="https://www.instagram.com/itzouluhh/" target="_blank">📸 • Instagram</a>
 <br>
+<a href="https://www.linkedin.com/in/ole-welling-77a967274/" target="_blank">🗺️ • LinkedIn</a>
+<br>
 <a href="https://itzole.nl/" target="_blank">💡 • Website</a>
