@@ -4,7 +4,7 @@
 ```javascript
 const Ole = {
   name: "Ole",
-  code: ["Web3", "Javascript", "Php", "Python"],
+  code: ["Web3", "Javascript", "Php", "Python", "React"],
   website: "ItzOle.nl",
   challanges: {
     "Finishing my school dashboard application",
