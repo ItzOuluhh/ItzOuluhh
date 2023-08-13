@@ -7,9 +7,7 @@ const Ole = {
   code: ["Web3", "Javascript", "Php", "Python", "React"],
   website: "ItzOle.nl",
   challanges: {
-    "Finishing my school dashboard application",
-    "Learn React.js",
-    "Mobile app development"
+    "Mobile App Development."
   };
   greetings: true
 };
