@@ -6,6 +6,13 @@ const Ole = {
   name: "Ole",
   code: ["HTML", "CSS", "Javascript", "PHP", "Typescript", "React", "NextJS", "Express.js"],
   website: "ItzOle.nl",
+  projects: [
+    {
+      name: "Glutox",
+      description: "Building software for hospitals with diabetes patients!",
+      languages: ["Typescript", "HTML", "CSS", "PHP", "Mongoose"]
+    }
+  ],
   challanges: null,
   greetings: true
 };
